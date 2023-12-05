@@ -34,13 +34,19 @@
 body{
     background-color: var(--cor0) ;
 }
-body a{   
-    font-weight: bold;
+body button{ 
+    
+    margin-top: 10px; 
+    margin-left: 5px;  
     color: var(--cor2);
-    text-decoration:none;
+    font-size: 14px;
+    font-weight: bold;
+    width: 60px;
+    height: 30px;  
+    
 }
-body a:hover{
-    background-color: var(--cor3);
+body button:hover{
+    background-color: var(--cor6);
 }
 
 
@@ -78,3 +84,9 @@ main p{
     padding-top: 10px;
     
 }
+img{
+    align-items: 700px;
+    max-width: 600px;
+   
+}
+
