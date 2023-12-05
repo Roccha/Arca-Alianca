@@ -84,5 +84,13 @@ main p{
     padding-top: 10px;
     
 }
+aside > ul{
+    margin: 50px;
+    height: 10px;
+    
+    
+    list-style-position: inside;
 
+
+}
 
