@@ -10,12 +10,12 @@
 
 
 :root{
-    --cor0:#49597A;
-    --cor1:#94B1DB;
-    --cor2:#3E2803;
-    --cor3:#83723A;
-    --cor4:#C8CAA2;
-    --cor5:#063d1e;
+    --cor0:#99BFF2;
+    --cor1:#7897BF;
+    --cor2:#0F1B26;
+    --cor3:#735443;
+    --cor4:#D9B29C;
+    --cor5:#273746;
 
     --font-padrao:arial, verdana, Helvetica, sans-serif;
     --font-destaque:"Bebas Neue", cursive;
@@ -53,7 +53,7 @@ header>h1{
 
 }
 header>p {
-    font-family: var(--font-padrao));
+    font-family: var(--font-padrao);
     font-size: 1em;
     color:white;
     max-width: 600px;
@@ -79,7 +79,8 @@ nav > a{
     transition-duration: .5s;
 }
 nav >a:hover{
-    background-color: var(--cor3);
+    
+    background-color: var(--cor4);
     color: var(--cor5);
 }
 main{
