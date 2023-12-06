@@ -50,6 +50,10 @@ header{
     font-size: 45px;
     font-family:Aoboshi One ;
 }
+.principal2{
+    font-size: 45;
+    font-family:Aoboshi One ;
+}
 header>h1{
     color:white;
     font-family: var(--font-destaque);
